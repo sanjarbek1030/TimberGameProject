@@ -1,0 +1,2 @@
+﻿  Timber.cpp
+LINK : fatal error LNK1104: cannot open file 'sfmlsystem-d.lib'
